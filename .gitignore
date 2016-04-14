@@ -1,0 +1,10 @@
+.DS_Store
+*.*~
+wget.log
+.*
+!/.gitignore
+
+*-dia.html
+*-pre.md
+*-dia-compact.html
+*-dia-pre-compact.md

@@ -1,0 +1,11 @@
+titre:
+    - "Les interruptions sur le MSP430"
+type:             Théorie
+niveau:           base
+auteur:
+    - PYR
+statut:           Relecture
+code:             wd-inter-msp
+url:
+    dias-video:  wd- inter-msp-dia.pdf
+    dias-compact: wd-inter-msp-dia-compact.pdf

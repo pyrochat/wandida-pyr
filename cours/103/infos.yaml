@@ -1,0 +1,11 @@
+titre:
+    - "Introduction aux timers"
+type:             Théorie
+niveau:           base
+auteur:          
+    - PYR
+statut:           Relecture
+code:             wd-timers
+url:
+    dias-video:   wd-timers-dia.pdf
+    dias-compact: wd-timers-dia-compact.pdf
