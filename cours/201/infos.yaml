@@ -1,0 +1,11 @@
+titre:
+    - "Mémoire permanentes pour microcontrôleur"
+type:             Théorie
+niveau:           base
+auteur:
+    - PYR
+statut:           Relecture
+code:             wd-mem-perm
+url:
+    dias-video:   wd-mem-perm.pdf
+    dias-compact: wd-mem-perm-compact.pdf
