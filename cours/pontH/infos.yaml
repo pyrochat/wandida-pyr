@@ -1,0 +1,11 @@
+titre:
+    - "Ponts en H"
+type:             Théorie
+niveau:           base
+auteur:
+    - PYR
+statut:           Relecture
+code:             pontH
+url:
+    dias-video:   pontH.pdf
+    dias-compact: pontH-compact.pdf
